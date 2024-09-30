@@ -1,3 +1,7 @@
+/**
+ * TC - O(n)
+ * SC - O(n)
+ */
 var TimeLimitedCache = function () {
   this.data = {};
 };
